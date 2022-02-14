@@ -1,3 +1,2 @@
 # Simplicity Tools
-Simplicity Tools的Xposed版本  
-基于MIUI13(Android 12适配)
+基于 MIUI13(Android 12) 适配的自定义工具
