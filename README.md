@@ -5,4 +5,4 @@
 
 开发者：[酷安@乌堆小透明](http://www.coolapk.com/u/883441)
 
-![Stitch_20220218_172635](https://user-images.githubusercontent.com/32336368/154655285-f48817b1-6543-4450-ae7c-8006f3f98e22.jpg)
+![Stitch_20220218_215421](https://user-images.githubusercontent.com/32336368/154695675-3782bdd0-1b9a-49ec-b7bf-9309de2c07a6.png)
