@@ -66,6 +66,8 @@
 	- 允许截图（支持磁贴）
 	- 解除安装限制（支持降级、不同签名、无签名安装）
 	- 跳过5/10秒警告时间
+	- 防止恢复电池优化白名单
+	- 解除不支持小窗应用限制
 	- 解锁无限裁切图片/截图功能
 
 </details>
@@ -79,12 +81,11 @@
 Xposed仓库下载：[点击此处下载最新发行版](https://github.com/Xposed-Modules-Repo/com.lt2333.simplicitytools/releases)  
 
 酷安下载：[点击此处下载最新发行版](https://www.coolapk.com/apk/com.lt2333.simplicitytools)  
-
 ## 第三方开源引用
-
-##### GNU General Public License v2.0 ：
-CorePatch  - LSPosed  
-https://github.com/LSPosed/CorePatch
+##### GNU General Public License v2.0
+[LSPosed/CorePatch](https://github.com/LSPosed/CorePatch)  
+##### GNU Lesser General Public License v2.1
+[577fkj/blockmiui](https://github.com/577fkj/blockmiui)  
 
 ## License
 [GNU General Public License v3.0](https://github.com/LittleTurtle2333/SimplicityTools/blob/main/LICENSE)
