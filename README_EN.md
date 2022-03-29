@@ -2,56 +2,53 @@
    <img width="160" src="https://raw.githubusercontent.com/LittleTurtle2333/SimplicityTools/main/doc/ic_launcher.png" alt="logo">
    <h1>Simplicity Tools</h1>
    <p>
-       <b><a href="https://github.com/LittleTurtle2333/SimplicityTools/blob/main/README_EN.md">English</a>  丨 简体中文</b>
-   </p>
+       <b>English  丨 <a href="https://github.com/LittleTurtle2333/SimplicityTools/blob/main/README.md">简体中文</a></b>
+    </p>
    <a href="https://github.com/Xposed-Modules-Repo/com.lt2333.simplicitytools/releases"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.lt2333.simplicitytools/total?label=Downloads"></a>
    <a href="https://github.com/LittleTurtle2333/SimplicityTools/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/LittleTurtle2333/SimplicityTools"></a>
    <a href="https://github.com/LittleTurtle2333/SimplicityTools/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/LittleTurtle2333/SimplicityTools"></a>
    <a href="https://github.com/LittleTurtle2333/SimplicityTools/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/LittleTurtle2333/SimplicityTools"></a>
-   <p>一个基于 MIUI13（Android12）适配的系统拓展Xposed模块</p>
+   <p>A system extension Xposed module based on MIUI13 (Android12) </p>
 </div>
 
 ---
 
-### 模块说明
+### Description
 
-仅支持MIUI13（Android12），其余版本无法使用。  
-  
-开发者：[酷安@乌堆小透明](http://www.coolapk.com/u/883441)  
+Only MIUI13 (Android12) is supported. The rest of the versions not be valid.  
 
 ---
 
-### 模块截图
-![截图](https://raw.githubusercontent.com/LittleTurtle2333/SimplicityTools/main/doc/cn.jpg)  
+### Screenshot
+![Screenshot](https://raw.githubusercontent.com/LittleTurtle2333/SimplicityTools/main/doc/en.jpg)  
 
 ---
 
-### 下载地址
+### Download
 
-Xposed仓库下载：[点击此处下载最新发行版](https://github.com/Xposed-Modules-Repo/com.lt2333.simplicitytools/releases)  
+Xposed Repo：[Click here to download the latest release](https://github.com/Xposed-Modules-Repo/com.lt2333.simplicitytools/releases)  
 
-酷安下载：[点击此处下载最新发行版](https://www.coolapk.com/apk/com.lt2333.simplicitytools)  
-
----
-
-### 改进翻译
-[![Crowdin](https://badges.crowdin.net/simplicitytools/localized.svg)](https://crowdin.com/project/simplicitytools)[点击此处进入Crowdin](https://crowdin.com/project/simplicitytools)
 
 ---
 
-### 第三方开源引用
+### Participate in translation
+[![Crowdin](https://badges.crowdin.net/simplicitytools/localized.svg)](https://crowdin.com/project/simplicitytools)[Click here to Crowdin](https://crowdin.com/project/simplicitytools)
+
+---
+
+## Third party open source references
 ##### GNU General Public License v3.0
 [qqlittleice/MiuiHome](https://github.com/qqlittleice/MiuiHome)  
 [yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming)  
-[Mikanoshi/CustoMIUIzer](https://code.highspec.ru/Mikanoshi/CustoMIUIzer)  
+[Mikanoshi/CustoMIUIzer](https://code.highspec.ru/Mikanoshi/CustoMIUIzer)
 ##### GNU General Public License v2.0
 [LSPosed/CorePatch](https://github.com/LSPosed/CorePatch)  
 ##### GNU Lesser General Public License v2.1
-[577fkj/blockmiui](https://github.com/577fkj/blockmiui)  
+[577fkj/blockmiui](https://github.com/577fkj/blockmiui)
 ##### Apache License 2.0
-[KyuubiRan/EzXHelper](https://github.com/KyuubiRan/EzXHelper)  
+[KyuubiRan/EzXHelper](https://github.com/KyuubiRan/EzXHelper)
 
 ---
 
-### License
+## License
 [GNU General Public License v3.0](https://github.com/LittleTurtle2333/SimplicityTools/blob/main/LICENSE)
