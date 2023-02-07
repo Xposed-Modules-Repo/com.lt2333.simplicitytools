@@ -8,14 +8,8 @@
    <a href="https://github.com/LittleTurtle2333/SimplicityTools/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/LittleTurtle2333/SimplicityTools"></a>
    <a href="https://github.com/LittleTurtle2333/SimplicityTools/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/LittleTurtle2333/SimplicityTools"></a>
    <a href="https://github.com/LittleTurtle2333/SimplicityTools/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/LittleTurtle2333/SimplicityTools"></a>
-   <p>A system extension Xposed module based on MIUI13 (Android12) </p>
+   <p>A system extension Xposed module based on MIUI13+ (Android12+) </p>
 </div>
-
----
-
-### Description
-
-Only MIUI13 (Android12) is supported. The rest of the versions not be valid.  
 
 ---
 
